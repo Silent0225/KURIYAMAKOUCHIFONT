@@ -2,7 +2,7 @@
 
 　這個字體是以[Kosugi Maru](https://github.com/googlefonts/kosugi-maru)為基底，進行部分調整後用部份調整過的[寒蝉全圆体（ChillRoundF）](https://github.com/Warren2060/ChillRound)、部份調整過的[昭源環方（Chiron GoRound TC）](https://github.com/chiron-fonts/chiron-go-round-tc)進行合併的字體。
 
-![](https://raw.githubusercontent.com/Silent0225/KURIYAMAKOUCHIFONT/refs/heads/main/SETSUMEI_001.png?token=GHSAT0AAAAAADMEBZIDC66GLBNX3BB3DO4Y2G6RFFQ)
+![](https://raw.githubusercontent.com/Silent0225/KURIYAMAKOUCHIFONT/main/SETSUMEI_001.png)
 
 　　
 
@@ -12,7 +12,7 @@
 
 　與其他改作自Kosugi Maru的字體（寒蝉全圆体、jf open-huninn字體）相比，沒有動到太多Kosugi Maru原有的字圖，所以很多字的風格更貼近Kosugi Maru。
 
-![](https://raw.githubusercontent.com/Silent0225/KURIYAMAKOUCHIFONT/refs/heads/main/SETSUMEI_002.png?token=GHSAT0AAAAAADMEBZID4GYQFAZICERK4OLM2G6RRCA)
+![](https://raw.githubusercontent.com/Silent0225/KURIYAMAKOUCHIFONT/main/SETSUMEI_002.png)
 
 　　
 
