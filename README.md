@@ -4,12 +4,6 @@
 
 　　
 
-（備註：寒蝉全圆体是Warren2060基於Kosugi Maru、[粉圓字體（jf open-huninn）](https://github.com/justfont/open-huninn-font)、[猫啃网糖圆体（MaoKen TangYuan）](https://github.com/NightFurySL2001/TangYuan-font)並進行調整而改作出的字體。
-
-　昭源環方是基於[昭源黑體（Chiron Hei HK）](https://github.com/chiron-fonts/chiron-hei-hk/)、[Nunito](https://github.com/googlefonts/NunitoSans)改作出的的字體）
-
-　　
-
 ## 字體特色
 
 　在盡量保留Kosugi Maru原字圖的情況下，用調整過的字體大小粗細盡量接近Kosugi Maru原字圖的寒蝉全圆体、昭源環方的字圖去進行合併。最後呈現的結果是整個字體與Kosugi Maru原字圖風格很接近，且在繁體中文、简体中文、部份生僻漢字的使用上基本不缺字。
@@ -20,7 +14,37 @@
 
 ## 從Kosugi Maru到KURIYAMAKOUCHIFONT，做了怎樣的改作？
 
+■第001步・對Kosugi Maru做調整■
 
+　把Kosugi Maru之中可能搞混（編碼不同且字形有點不同但字圖完全一樣所以可能搞混）的字圖「昻」給刪除。
+
+　　
+
+■第002-1步・對寒蝉全圆体（ChillRoundF）做調整■
+
+　把寒蝉全圆体之中可能搞混、搞錯的字圖給刪除（譬如說，憒、嘒、丟、勻……等字）。
+
+　根據自己的喜好，把寒蝉全圆体之中的某些字圖與其對應的「OpenType特性的字形異體字圖」給互換，盡量用更接近日本新字体、旧字体的部件字形的字圖來顯示文字（譬如說，啟、戾、护、搧……等字）。
+
+　把寒蝉全圆体中的所有字圖給放大、增加字寬……，讓其盡量貼近Kosugi Maru的字圖風格。
+
+　　
+
+■第002-2步・把Kosugi Maru與調整過的寒蝉全圆体的字圖進行合併■
+
+　用調整過的寒蝉全圆体的字圖補充到Kosugi Maru。對Kosugi Maru之中缺少的字圖進行補字。
+
+　　
+
+■第003-1步・對昭源環方（Chiron GoRound TC）做調整■
+
+　把昭源環方中的所有字圖給放大、增加字寬……，讓其盡量貼近Kosugi Maru的字圖風格。
+
+　　
+
+■第003-2步・把「Kosugi Maru與調整過的寒蝉全圆体的字圖進行合併之後的『成果』」與調整過的昭源環方的字圖進行合併■
+
+　用調整過的昭源環方的字圖補充到之前得到的「成果 （Kosugi Maru與調整過的寒蝉全圆体的字圖進行合併之後得到的）」。對其之中缺少的字圖進行補字。
 
 　　
 
