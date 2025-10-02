@@ -10,7 +10,7 @@
 
 　在盡量保留Kosugi Maru原字圖的情況下，用調整過的字體大小粗細盡量接近Kosugi Maru原字圖的寒蝉全圆体、昭源環方的字圖去進行合併。最後呈現的結果是整個字體與Kosugi Maru原字圖風格很接近，且在繁體中文、简体中文、部份生僻漢字的使用上基本不缺字。
 
-　與其他改作自Kosugi Maru的字體（寒蝉全圆体、粉圓字體）相比，沒有動到太多Kosugi Maru原有的字圖，所以很多字的風格更貼近Kosugi Maru。
+　與其他改作自Kosugi Maru的字體（寒蝉全圆体、jf open-huninn字體）相比，沒有動到太多Kosugi Maru原有的字圖，所以很多字的風格更貼近Kosugi Maru。
 
 　　
 
