@@ -12,6 +12,8 @@
 
 　與其他改作自Kosugi Maru的字體（寒蝉全圆体、jf open-huninn字體）相比，沒有動到太多Kosugi Maru原有的字圖，所以很多字的風格更貼近Kosugi Maru。
 
+![](https://raw.githubusercontent.com/Silent0225/KURIYAMAKOUCHIFONT/refs/heads/main/SETSUMEI_002.png?token=GHSAT0AAAAAADMEBZID4GYQFAZICERK4OLM2G6RRCA)
+
 　　
 
 ## 從Kosugi Maru到KURIYAMAKOUCHIFONT，做了怎樣的改作？
