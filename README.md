@@ -2,6 +2,8 @@
 
 　這個字體是以[Kosugi Maru](https://github.com/googlefonts/kosugi-maru)為基底，進行部分調整後用部份調整過的[寒蝉全圆体（ChillRoundF）](https://github.com/Warren2060/ChillRound)、部份調整過的[昭源環方（Chiron GoRound TC）](https://github.com/chiron-fonts/chiron-go-round-tc)進行合併的字體。
 
+　　
+
 （備註：寒蝉全圆体是基於Kosugi Maru、[粉圓字體（jf open-huninn）](https://github.com/justfont/open-huninn-font)、[猫啃网糖圆体（MaoKen TangYuan）](https://github.com/NightFurySL2001/TangYuan-font)並進行調整而改作出的字體。
 
 　昭源環方是基於[昭源黑體（Chiron Hei HK）](https://github.com/chiron-fonts/chiron-hei-hk/)、[Nunito](https://github.com/googlefonts/NunitoSans)改作出的的字體）
