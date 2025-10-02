@@ -4,7 +4,7 @@
 
 　　
 
-（備註：寒蝉全圆体是基於Kosugi Maru、[粉圓字體（jf open-huninn）](https://github.com/justfont/open-huninn-font)、[猫啃网糖圆体（MaoKen TangYuan）](https://github.com/NightFurySL2001/TangYuan-font)並進行調整而改作出的字體。
+（備註：寒蝉全圆体是Warren2060基於Kosugi Maru、[粉圓字體（jf open-huninn）](https://github.com/justfont/open-huninn-font)、[猫啃网糖圆体（MaoKen TangYuan）](https://github.com/NightFurySL2001/TangYuan-font)並進行調整而改作出的字體。
 
 　昭源環方是基於[昭源黑體（Chiron Hei HK）](https://github.com/chiron-fonts/chiron-hei-hk/)、[Nunito](https://github.com/googlefonts/NunitoSans)改作出的的字體）
 
