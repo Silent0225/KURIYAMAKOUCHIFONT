@@ -12,6 +12,8 @@
 
 　與其他改作自Kosugi Maru的字體（寒蝉全圆体、jf open-huninn（粉圓字體））相比，沒有動到太多Kosugi Maru原有的字圖，所以很多字的風格更貼近Kosugi Maru。
 
+![](https://github.com/Silent0225/KURIYAMAKOUCHIFONT/blob/main/SETSUMEI003.png)
+
 　　
 
 ## 從Kosugi Maru到KURIYAMAKOUCHIFONT，做了怎樣的改作？
@@ -20,13 +22,19 @@
 
 　把Kosugi Maru之中可能搞混（編碼不同且字形有點不同但字圖完全一樣所以可能搞混）的字圖「昻」給刪除。
 
+![](https://github.com/Silent0225/KURIYAMAKOUCHIFONT/blob/main/SETSUMEI004.png)
+
 　　
 
 ■第002-1步・對寒蝉全圆体（ChillRoundF）做調整■
 
 　把寒蝉全圆体之中可能搞混、搞錯的字圖給刪除（譬如說，憒、嘒、丟、勻……等字）。
 
+![](https://github.com/Silent0225/KURIYAMAKOUCHIFONT/blob/main/SETSUMEI005.png)
+
 　根據自己的喜好，把寒蝉全圆体之中的某些字圖與其對應的「OpenType特性的字形異體字圖」給互換，盡量用更接近日本新字体、旧字体的部件字形的字圖來顯示文字（譬如說，啟、戾、护、搧……等字）。
+
+![](https://github.com/Silent0225/KURIYAMAKOUCHIFONT/blob/main/SETSUMEI006.png)
 
 　把寒蝉全圆体中的所有字圖給放大、增加字寬……，讓其盡量貼近Kosugi Maru的字圖風格。
 
@@ -57,6 +65,8 @@
 　其中，N（Normal）版本是正常顯示各種漢字的普通版本。S（Special）版本是像[SaKura-SandoittiFont](https://github.com/Silent0225/SaKura-SandoittiFont) 那樣盡量以日本常見寫法的字圖來強制顯示很多繁體字和簡體字的特別版本（譬如說，用『亜』的字圖來顯示『亞』、『亚』）。
 
 （備註：在S版本之中，對於某些漢字來說，如果可能會搞混的話則不會用日本常見寫法的字圖來強制顯示繁體字和簡體字。譬如說，发……等字）
+
+![](https://github.com/Silent0225/KURIYAMAKOUCHIFONT/blob/main/SETSUMEI007.png)
 
 　　
 
