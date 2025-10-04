@@ -2,6 +2,8 @@
 
 　這個字體是以[Kosugi Maru](https://github.com/googlefonts/kosugi-maru)為基底，進行部分調整後用部份調整過的[寒蝉全圆体（ChillRoundF）](https://github.com/Warren2060/ChillRound)、部份調整過的[昭源環方（Chiron GoRound TC）](https://github.com/chiron-fonts/chiron-go-round-tc)進行合併的字體。
 
+![](https://github.com/Silent0225/KURIYAMAKOUCHIFONT/blob/main/SETSUMEI002.png)
+
 　　
 
 ## 字體特色
