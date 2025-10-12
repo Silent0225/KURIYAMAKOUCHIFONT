@@ -32,7 +32,7 @@
 
 ![](https://github.com/Silent0225/KURIYAMAKOUCHIFONT/blob/main/SETSUMEI/SETSUMEI004.png)
 
-　根據自己的喜好，把寒蝉全圆体之中的某些字圖與其對應的「OpenType特性的字形異體字圖」給互換，盡量用更接近日本新字体、旧字体的部件字形的字圖來顯示文字（譬如說，啟、戾、护、搧……等字）。
+　根據個人喜好，把寒蝉全圆体之中的某些字圖與其對應的「OpenType特性的字形異體字圖」給互換，盡量用更接近日本新字体、旧字体的部件字形的字圖來顯示文字（譬如說，啟、戾、护、搧……等字）。
 
 ![](https://github.com/Silent0225/KURIYAMAKOUCHIFONT/blob/main/SETSUMEI/SETSUMEI005.png)
 
