@@ -1,6 +1,6 @@
 # KURIYAMAKOUCHIFONT（栗山巧緻フォント）
 
-　這個字體是以[Kosugi Maru](https://github.com/googlefonts/kosugi-maru)為基底，進行部分調整後用部份調整過的[寒蝉全圆体（ChillRoundF）](https://github.com/Warren2060/ChillRound)、部份調整過的[昭源環方（Chiron GoRound TC）](https://github.com/chiron-fonts/chiron-go-round-tc)、部份調整過的[jf 粉圓字體（jf open-huninn）](https://github.com/justfont/open-huninn-font)、部份調整過的[猫啃网糖圆体（MaoKen TangYuan）](https://github.com/NightFurySL2001/TangYuan-font)進行合併的字體。
+　這個字體是以[Kosugi Maru](https://github.com/googlefonts/kosugi-maru)為基底，進行部分調整後用部份調整過的[寒蝉全圆体（ChillRoundF）](https://github.com/Warren2060/ChillRound)、部份調整過的[昭源環方（Chiron GoRound TC）](https://github.com/chiron-fonts/chiron-go-round-tc)、部份調整過的[猫啃网糖圆体（MaoKen TangYuan）](https://github.com/NightFurySL2001/TangYuan-font)、部份調整過的[jf 粉圓字體（jf open-huninn）](https://github.com/justfont/open-huninn-font)進行合併的字體。
 
 ![](https://github.com/Silent0225/KURIYAMAKOUCHIFONT/blob/main/SETSUMEI/SETSUMEI001.png)
 
