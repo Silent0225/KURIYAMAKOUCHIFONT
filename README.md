@@ -16,7 +16,7 @@
 
 　　
 
-## 從Kosugi Maru到KURIYAMAKOUCHIFONT，做了怎樣的改作？
+## 從Kosugi Maru到KURIYAMAKOUCHIFONT，做了怎樣的改作？（0.0.0 Ver.）
 
 □第001步・對Kosugi Maru做調整□
 
