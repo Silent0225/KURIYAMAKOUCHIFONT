@@ -12,7 +12,7 @@
 
 　與其他改作自Kosugi Maru的字體（寒蝉全圆体、jf 粉圓字體）相比，沒有動到太多Kosugi Maru原有的字圖，所以很多字的風格更貼近Kosugi Maru。
 
-![](https://github.com/Silent0225/KURIYAMAKOUCHIFONT/blob/main/SETSUMEI/000VER/SETSUMEI002.png)
+![](https://github.com/Silent0225/KURIYAMAKOUCHIFONT/blob/main/SETSUMEI/100VER/SETSUMEI100VER_001.png)
 
 　　
 
