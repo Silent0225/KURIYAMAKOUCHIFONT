@@ -42,8 +42,7 @@
 
 　把昭源環方中的大部分字圖（U+F900～U+FAFF之間的部分漢字沒有在範圍內）給放大、增加字寬……，並合併到「成品K」裡。至此，完成的「成品K」即是「KURIYAMAKOUCHIFONT_N」。
 
- ![](https://github.com/Silent0225/KURIYAMAKOUCHIFONT/blob/main/SETSUMEI/100VER/SETSUMEI100VER_002.png)
-
+![](https://github.com/Silent0225/KURIYAMAKOUCHIFONT/blob/main/SETSUMEI/100VER/SETSUMEI100VER_002.png)
  
 　　
 
@@ -56,7 +55,6 @@
 （備註：在S版本之中，對於某些漢字來說，如果可能會搞混的話則不會用日本常見寫法的字圖來顯示繁體字和简体字。譬如說，发……等字）
 
 ![](https://github.com/Silent0225/KURIYAMAKOUCHIFONT/blob/main/SETSUMEI/100VER/SETSUMEI100VER_003.png)
-
 　　
 
 ## 授權
