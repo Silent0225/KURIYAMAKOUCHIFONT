@@ -14,6 +14,8 @@
 
 ![](https://github.com/Silent0225/KURIYAMAKOUCHIFONT/blob/main/SETSUMEI/100VER/SETSUMEI100VER_001.png)
 
+![](https://github.com/Silent0225/KURIYAMAKOUCHIFONT/blob/main/SETSUMEI/100VER/SETSUMEI100VER_002.png)
+
 　　
 
 ## 從Kosugi Maru到KURIYAMAKOUCHIFONT，做了怎樣的改作？（1.0.0 Ver.）
@@ -41,8 +43,6 @@
 ◯第005步・對昭源環方做調整，並合併到『成品K』裡◯
 
 　把昭源環方中的大部分字圖（U+F900～U+FAFF之間的部分漢字沒有在範圍內）給放大、增加字寬……，並合併到「成品K」裡。至此，完成的「成品K」即是「KURIYAMAKOUCHIFONT_N」。
-
-![](https://github.com/Silent0225/KURIYAMAKOUCHIFONT/blob/main/SETSUMEI/100VER/SETSUMEI100VER_002.png)
  
 　　
 
